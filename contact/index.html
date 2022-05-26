@@ -732,6 +732,12 @@ $(function () {
     
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
+    <script type="text/javascript">
+        var OriginTitile=document.title,st;
+        document.addEventListener("visibilitychange",function(){
+            document.hidden?(document.title="ヽ(●-`Д´-)ノ呜呜不要离开我",clearTimeout(st)):(document.title="(Ő∀Ő3)ノ好耶！",st=setTimeout(function(){document.title=OriginTitile},3e3))
+        })
+    </script>
 
 </body>
 
