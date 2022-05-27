@@ -6,7 +6,7 @@
   <link href="http://iven13465.github.io/atom.xml" rel="self"/>
   
   <link href="http://iven13465.github.io/"/>
-  <updated>2022-05-26T04:08:04.934Z</updated>
+  <updated>2022-05-27T06:08:21.903Z</updated>
   <id>http://iven13465.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>涩图</title>
+    <link href="http://iven13465.github.io/2022/05/27/%E6%B6%A9%E5%9B%BE/"/>
+    <id>http://iven13465.github.io/2022/05/27/%E6%B6%A9%E5%9B%BE/</id>
+    <published>2022-05-27T05:32:00.000Z</published>
+    <updated>2022-05-27T06:08:21.903Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/1.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/3.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="涩涩" scheme="http://iven13465.github.io/tags/%E6%B6%A9%E6%B6%A9/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
