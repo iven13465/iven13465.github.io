@@ -454,9 +454,13 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E5%B8%AE%E5%8A%A9/">
+                                <span class="chip bg-color">帮助</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
@@ -919,7 +923,7 @@
 <td align="center">mys</td>
 <td align="center">角色信息(带武器信息，冒险等级)</td>
 <td align="center">mys123456</td>
-<td align="center">由于米游社限制，完整信息配队需绑定Cookies<br>mys为米游社通行证<br>可以在原本基础命令之后附一张图片，自定义背景图片，例如<br>mys123456 [图片]</td>
+<td align="center">由于米游社限制，完整信息配队需绑定Cookies<br>mys为米游社通行证<br>可以在原本基础命令之后附一张图片，自定义背景图片，例如<br>mys123456 [图片] <strong>（此为米游社id，不是你的uid）</strong></td>
 </tr>
 <tr>
 <td align="center">mys（上期）深渊（9/10/11/12）</td>
@@ -949,13 +953,13 @@
 <td align="center">每月统计</td>
 <td align="center">查询当前绑定账号的每月/每日的原石/摩拉</td>
 <td align="center">每月统计</td>
-<td align="center">同上</td>
+<td align="center">必须绑定过Cookies和uid</td>
 </tr>
 <tr>
 <td align="center">签到</td>
 <td align="center">直接进行米游社签到</td>
 <td align="center">签到</td>
-<td align="center">同上</td>
+<td align="center">必须绑定过Cookies和uid</td>
 </tr>
 <tr>
 <td align="center">活动列表</td>
@@ -1116,7 +1120,8 @@
 <td align="center"></td>
 </tr>
 </tbody></table>
-<h5 id="丨获取米游社Cookies？"><a href="#丨获取米游社Cookies？" class="headerlink" title="丨获取米游社Cookies？"></a>丨获取米游社Cookies？</h5><pre><code>var cookie = document.cookie;
+<h5 id="丨获取米游社Cookies"><a href="#丨获取米游社Cookies" class="headerlink" title="丨获取米游社Cookies"></a>丨获取米游社Cookies</h5><p><strong>（使用米游社签到）</strong></p>
+<pre><code>var cookie = document.cookie;
 var Str_Num = cookie.indexOf('_MHYUUID=');
 cookie = '添加 ' + cookie.substring(Str_Num);
 var ask = confirm('Cookie:' + cookie + '\n\n按确认，然后粘贴发送给机器人');
@@ -1135,7 +1140,8 @@ msg = 'Cancel'
 </ol>
 <p><strong>如仍然无法签到，请向机器人发送 <code>绑定uid:[你的uid]</code></strong></p>
 <p><strong>警告：Cookies属于个人隐私，其效用相当于账号密码，请勿随意公开！</strong></p>
-<h5 id="丨获取米游社Stoken"><a href="#丨获取米游社Stoken" class="headerlink" title="丨获取米游社Stoken"></a>丨获取米游社Stoken</h5><p><strong>前提</strong>：已经添加过米游社Cookies，并且已经绑定过uid(仅用于米游社币的获取)</p>
+<h5 id="丨获取米游社Stoken"><a href="#丨获取米游社Stoken" class="headerlink" title="丨获取米游社Stoken"></a>丨获取米游社Stoken</h5><p><strong>（使用获取米游币）</strong></p>
+<p><strong>前提</strong>：已经添加过**[米游社Cookies](##### 丨获取米游社Cookies)<strong>，并且已经</strong>绑定过uid**(仅用于米游社币的获取)</p>
 <pre><code>var cookie = document.cookie;
 var ask = confirm('Cookie:' + cookie + '\n\nDo you want to copy the cookie to the clipboard?');
 if (ask == true) {
@@ -1223,7 +1229,11 @@ msg = 'Cancel'
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/%E5%B8%AE%E5%8A%A9/">
+                                    <span class="chip bg-color">帮助</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -1450,6 +1460,14 @@ msg = 'Cancel'
                     </div>
                 </div>
 
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E5%B8%AE%E5%8A%A9/">
+                        <span class="chip bg-color">帮助</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
