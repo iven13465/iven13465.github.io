@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iven&#39;s blog</title>
+  
+  <subtitle>Hello</subtitle>
+  <link href="https://blog.iven233.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.iven233.com/"/>
+  <updated>2022-10-06T10:05:05.077Z</updated>
+  <id>https://blog.iven233.com/</id>
+  
+  <author>
+    <name>iven</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>spotify美化</title>
+    <link href="https://blog.iven233.com/posts/7793421/"/>
+    <id>https://blog.iven233.com/posts/7793421/</id>
+    <published>2022-09-17T11:45:00.000Z</published>
+    <updated>2022-10-06T10:05:05.077Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/09/17/Aibpr9cjsnKkP6f.png&quot; alt=&quot;先放上最终成果&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://s2.loli.net/2022/09/17/JVLjW8XBoUwPrpE.jpg&quot; alt=&quot;先放上最终成果&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>telegram开启私聊验证</title>
+    <link href="https://blog.iven233.com/posts/5d99cd2b/"/>
+    <id>https://blog.iven233.com/posts/5d99cd2b/</id>
+    <published>2022-09-11T12:36:00.000Z</published>
+    <updated>2022-10-06T10:03:16.483Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;由于telegram并不能关闭陌生人私聊，会导致收到不少广告&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="帮助" scheme="https://blog.iven233.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吃掉野兽先辈</title>
+    <link href="https://blog.iven233.com/posts/23b91c49/"/>
+    <id>https://blog.iven233.com/posts/23b91c49/</id>
+    <published>2022-07-15T13:04:00.000Z</published>
+    <updated>2022-10-04T13:59:29.892Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://iven13465.github.io/114514/&quot;&gt;https://iven13465.github.io/114514/&lt;/a&gt;&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="小游戏" scheme="https://blog.iven233.com/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>qq机器人帮助文档</title>
+    <link href="https://blog.iven233.com/posts/dfe09827/"/>
+    <id>https://blog.iven233.com/posts/dfe09827/</id>
+    <published>2022-06-17T02:40:00.000Z</published>
+    <updated>2022-10-06T10:03:28.010Z</updated>
+    
+    
+    <summary type="html">老被风控好烦哼哼哼哼啊啊啊啊啊啊啊</summary>
+    
+    
+    
+    
+    <category term="帮助" scheme="https://blog.iven233.com/tags/%E5%B8%AE%E5%8A%A9/"/>
+    
+  </entry>
+  
+</feed>
